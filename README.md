@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 
 -->
 
-- 孩子不懂事，乱发的
+- 孩子不懂事，发着玩的
