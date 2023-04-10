@@ -8,6 +8,4 @@ Here are some ideas to get you started:
 
 -->
 
-- Student from SCUT. 2019 graduater. Will work in ShenZhen this Aug.
-- Currently learning C/C++.
-- Better will someday. 🌱
+- 孩子不懂事，乱发的
